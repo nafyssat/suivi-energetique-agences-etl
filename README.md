@@ -1,4 +1,4 @@
-# Suivi énergétique d’un réseau d’agences  
+# Suivi énergétique d’un réseau d’agences  (EN COURS)
 **Pipeline ETL avec Talend, PostgreSQL et Metabase**
 
 ## Contexte
